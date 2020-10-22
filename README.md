@@ -1,24 +1,19 @@
 # Assignment Task
 
 This is an task.
-Please download all the dependencies with the below command.
+
 
 ### Version: 1.0.0
 
-### Usage
+Please download all the dependencies with the below command.
 
 ```sh
 $ npm install
 ```
+Run the server with the below command.
 
 ```sh
 $ npm start
-# Or run with Nodemon
-$ npm run dev
 
-# Visit http://localhost:5000
+# Visit http://localhost:3000
 ```
-
-### MongoDB
-
-Open "config/keys.js" and add your MongoDB URI, local or Atlas
