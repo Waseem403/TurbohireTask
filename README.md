@@ -1,10 +1,24 @@
-initialize the packages with the below npm command
-###npm install or npm i
+# Assignment Task
 
-Start the server with the below command
-###npm start
+This is an task.
+Please download all the dependencies with the below command.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Version: 1.0.0
 
+### Usage
 
+```sh
+$ npm install
+```
+
+```sh
+$ npm start
+# Or run with Nodemon
+$ npm run dev
+
+# Visit http://localhost:5000
+```
+
+### MongoDB
+
+Open "config/keys.js" and add your MongoDB URI, local or Atlas
